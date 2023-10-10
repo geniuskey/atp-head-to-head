@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "data_app"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 duckdb = "^0.9.0"
 streamlit = "^1.27.2"
 streamlit-searchbox = "^0.1.5"
